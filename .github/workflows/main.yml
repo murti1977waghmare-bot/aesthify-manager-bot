@@ -23,7 +23,7 @@ jobs:
 
       - name: Run bot
         env:
-          BOT_TOKEN: ${{ secrets.TOKEN_ID }}
+          BOT_TOKEN: ${{ 8454981108:AAElu08c7b-tWQqHWycYTRitVTaKuK2cAD4 }}
           GROUP_ID: ${{ -1003381879257 }}
           ADMIN_ID: ${{ 5732240284 }}
         run: |
