@@ -25,6 +25,6 @@ jobs:
         env:
           BOT_TOKEN: ${{ secrets.TOKEN_ID }}
           GROUP_ID: ${{ -1003381879257 }}
-          ADMIN_ID: ${{ secrets.ADMIN_ID }}
+          ADMIN_ID: ${{ 5732240284 }}
         run: |
           python3 bot.py
